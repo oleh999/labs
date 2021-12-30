@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640517841 source:c:\users\alena\documents\проекты\с\laba_1\laba_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
